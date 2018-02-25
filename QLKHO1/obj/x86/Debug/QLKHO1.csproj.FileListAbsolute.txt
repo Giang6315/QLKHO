@@ -1,0 +1,168 @@
+c:\users\admin\documents\visual studio 2010\Projects\QLKHO1\QLKHO1\bin\Debug\QLKHO1.exe
+c:\users\admin\documents\visual studio 2010\Projects\QLKHO1\QLKHO1\bin\Debug\QLKHO1.pdb
+c:\users\admin\documents\visual studio 2010\Projects\QLKHO1\QLKHO1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\QLKHO1\QLKHO1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\QLKHO1\QLKHO1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.exe
+c:\users\admin\documents\visual studio 2010\Projects\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.frmGiaoDien.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.exe.licenses
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.frmSanPham.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.frmDonDatHang.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.Presentation.xfrmSanPham.resources
+D:\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.frmSanPham.resources
+D:\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.frmGiaoDien.resources
+D:\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.frmDonDatHang.resources
+D:\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.Presentation.xfrmSanPham.resources
+D:\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.Properties.Resources.resources
+D:\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.exe.licenses
+D:\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\bin\Debug\QLKHO1.exe
+D:\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\bin\Debug\QLKHO1.pdb
+D:\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.exe
+D:\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.pdb
+D:\LAP TRINH\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.exe
+D:\LAP TRINH\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.pdb
+D:\LAP TRINH\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\bin\Debug\QLKHO1.exe
+D:\LAP TRINH\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\bin\Debug\QLKHO1.pdb
+D:\LAP TRINH\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\LAP TRINH\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.frmSanPham.resources
+D:\LAP TRINH\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.frmGiaoDien.resources
+D:\LAP TRINH\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.frmDonDatHang.resources
+D:\LAP TRINH\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.Presentation.xfrmSanPham.resources
+D:\LAP TRINH\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.Properties.Resources.resources
+D:\LAP TRINH\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\LAP TRINH\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\LAP TRINH\do an moi\Quan Ly Kho 16-8-2015\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.exe.licenses
+D:\LAP TRINH\do an moi\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.exe
+D:\LAP TRINH\do an moi\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.pdb
+E:\CODER\MBPTOOL CSDL\Tham Khao\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.exe
+E:\CODER\MBPTOOL CSDL\Tham Khao\QLKHO1\QLKHO1\obj\x86\Debug\QLKHO1.pdb
+E:\CODER\MBPTOOL CSDL\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.exe
+E:\CODER\MBPTOOL CSDL\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.pdb
+E:\CODER\ql kho code\QLKHO1(DEV 15.1)\QLKHO1\bin\Debug\QLKHO1.exe
+E:\CODER\ql kho code\QLKHO1(DEV 15.1)\QLKHO1\bin\Debug\QLKHO1.pdb
+E:\CODER\ql kho code\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.csprojResolveAssemblyReference.cache
+E:\CODER\ql kho code\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.frmSanPham.resources
+E:\CODER\ql kho code\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.frmGiaoDien.resources
+E:\CODER\ql kho code\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.frmDonDatHang.resources
+E:\CODER\ql kho code\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.Presentation.xfrmSanPham.resources
+E:\CODER\ql kho code\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.Properties.Resources.resources
+E:\CODER\ql kho code\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.csproj.GenerateResource.Cache
+E:\CODER\ql kho code\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.exe.licenses
+E:\CODER\ql kho code\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.exe
+E:\CODER\ql kho code\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.pdb
+C:\Users\ADMIN\Desktop\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.exe
+C:\Users\ADMIN\Desktop\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.pdb
+C:\Users\ADMIN\Desktop\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.frmGiaoDien.resources
+C:\Users\ADMIN\Desktop\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.frmDonDatHang.resources
+C:\Users\ADMIN\Desktop\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.Presentation.xfrmSanPham.resources
+C:\Users\ADMIN\Desktop\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ADMIN\Desktop\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ADMIN\Desktop\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.exe.licenses
+E:\CODER\2016 May\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.exe
+E:\CODER\2016 May\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\CODER\2016 May\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.frmGiaoDien.resources
+E:\CODER\2016 May\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.frmDonDatHang.resources
+E:\CODER\2016 May\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.Presentation.xfrmSanPham.resources
+E:\CODER\2016 May\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.Properties.Resources.resources
+E:\CODER\2016 May\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\CODER\2016 May\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\CODER\2016 May\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.exe.licenses
+E:\CODER\2016 May\QLKHO1(DEV 15.1)\QLKHO1\bin\Debug\QLKHO1.exe
+E:\CODER\2016 May\QLKHO1(DEV 15.1)\QLKHO1\bin\Debug\QLKHO1.pdb
+E:\CODER\2016 May\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.pdb
+D:\GIAI TRI\CODER\2016 May\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.exe
+D:\GIAI TRI\CODER\2016 May\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.pdb
+D:\GIAI TRI\CODER\2016 May\QLKHO1(DEV 15.1)\QLKHO1\bin\Debug\QLKHO1.exe
+D:\GIAI TRI\CODER\2016 May\QLKHO1(DEV 15.1)\QLKHO1\bin\Debug\QLKHO1.pdb
+D:\GIAI TRI\CODER\2016 May\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.csprojResolveAssemblyReference.cache
+D:\GIAI TRI\CODER\2016 May\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.frmGiaoDien.resources
+D:\GIAI TRI\CODER\2016 May\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.frmDonDatHang.resources
+D:\GIAI TRI\CODER\2016 May\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.Presentation.xfrmSanPham.resources
+D:\GIAI TRI\CODER\2016 May\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.Properties.Resources.resources
+D:\GIAI TRI\CODER\2016 May\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.csproj.GenerateResource.Cache
+D:\GIAI TRI\CODER\2016 May\QLKHO1(DEV 15.1)\QLKHO1\obj\x86\Debug\QLKHO1.exe.licenses
+D:\CODER\2016 May\QLKHO1(DEV 15.2)\QLKHO1\obj\x86\Debug\QLKHO1.exe
+D:\CODER\2016 May\QLKHO1(DEV 15.2)\QLKHO1\obj\x86\Debug\QLKHO1.pdb
+D:\CODER\2016 May\QLKHO1(DEV 15.2)\QLKHO1\obj\x86\Debug\QLKHO1.frmGiaoDien.resources
+D:\CODER\2016 May\QLKHO1(DEV 15.2)\QLKHO1\obj\x86\Debug\QLKHO1.Presentation.frmSanPham.resources
+D:\CODER\2016 May\QLKHO1(DEV 15.2)\QLKHO1\obj\x86\Debug\QLKHO1.Properties.Resources.resources
+D:\CODER\2016 May\QLKHO1(DEV 15.2)\QLKHO1\obj\x86\Debug\QLKHO1.csproj.GenerateResource.Cache
+D:\CODER\2016 May\QLKHO1(DEV 15.2)\QLKHO1\obj\x86\Debug\QLKHO1.exe.licenses
+D:\CODER\2016 May\QLKHO1(DEV 15.2)\QLKHO1\bin\Debug\QLKHO1.exe
+D:\CODER\2016 May\QLKHO1(DEV 15.2)\QLKHO1\bin\Debug\QLKHO1.pdb
+D:\CODER\2016 May\QLKHO1(DEV 15.2)\QLKHO1\obj\x86\Debug\QLKHO1.csprojResolveAssemblyReference.cache
+D:\CODER\13.08.2016\QLKHO1(13.08.2016)\QLKHO1\obj\x86\Debug\QLKHO1.exe
+D:\CODER\13.08.2016\QLKHO1(13.08.2016)\QLKHO1\obj\x86\Debug\QLKHO1.pdb
+D:\CODER\13.08.2016\QLKHO1(DEV 15.2)\QLKHO1\obj\x86\Debug\QLKHO1.exe
+D:\CODER\13.08.2016\QLKHO1(DEV 15.2)\QLKHO1\obj\x86\Debug\QLKHO1.pdb
+D:\CODER\13.08.2016\QLKHO1(DEV 15.2)\QLKHO1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CODER\13.08.2016\QLKHO1(DEV 15.2)\QLKHO1\obj\x86\Debug\QLKHO1.frmGiaoDien.resources
+D:\CODER\13.08.2016\QLKHO1(DEV 15.2)\QLKHO1\obj\x86\Debug\QLKHO1.Presentation.frmSanPham.resources
+D:\CODER\13.08.2016\QLKHO1(DEV 15.2)\QLKHO1\obj\x86\Debug\QLKHO1.Properties.Resources.resources
+D:\CODER\13.08.2016\QLKHO1(DEV 15.2)\QLKHO1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CODER\13.08.2016\QLKHO1(DEV 15.2)\QLKHO1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CODER\13.08.2016\QLKHO1(DEV 15.2)\QLKHO1\obj\x86\Debug\QLKHO1.exe.licenses
+C:\Users\ST\Desktop\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.csprojResolveAssemblyReference.cache
+C:\Users\ST\Desktop\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.frmGiaoDien.resources
+C:\Users\ST\Desktop\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.Presentation.frmSanPham.resources
+C:\Users\ST\Desktop\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.Properties.Resources.resources
+C:\Users\ST\Desktop\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.csproj.GenerateResource.Cache
+C:\Users\ST\Desktop\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.exe.licenses
+C:\Users\ST\Desktop\QLKHO1(DEV 11.1.7)\QLKHO1\bin\Debug\QLKHO1.exe
+C:\Users\ST\Desktop\QLKHO1(DEV 11.1.7)\QLKHO1\bin\Debug\QLKHO1.pdb
+C:\Users\ST\Desktop\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.Presentation.Form1.resources
+C:\Users\ST\Desktop\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.exe
+C:\Users\ST\Desktop\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.pdb
+C:\Users\ST\Desktop\28-9-2016\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.exe
+C:\Users\ST\Desktop\28-9-2016\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.pdb
+C:\Users\ST\Desktop\28-9-2016\QLKHO1(DEV 11.1.7)\QLKHO1\bin\Debug\QLKHO1.exe
+C:\Users\ST\Desktop\28-9-2016\QLKHO1(DEV 11.1.7)\QLKHO1\bin\Debug\QLKHO1.pdb
+C:\Users\ST\Desktop\28-9-2016\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.csprojResolveAssemblyReference.cache
+C:\Users\ST\Desktop\28-9-2016\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.frmGiaoDien.resources
+C:\Users\ST\Desktop\28-9-2016\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.Presentation.Form1.resources
+C:\Users\ST\Desktop\28-9-2016\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.Presentation.frmSanPham.resources
+C:\Users\ST\Desktop\28-9-2016\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.Properties.Resources.resources
+C:\Users\ST\Desktop\28-9-2016\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.csproj.GenerateResource.Cache
+C:\Users\ST\Desktop\28-9-2016\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.exe.licenses
+E:\28-9-2016\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.exe
+E:\28-9-2016\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.pdb
+E:\28-9-2016\QLKHO1(DEV 11.1.7)\QLKHO1\bin\Debug\QLKHO1.exe
+E:\28-9-2016\QLKHO1(DEV 11.1.7)\QLKHO1\bin\Debug\QLKHO1.pdb
+E:\28-9-2016\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.csprojResolveAssemblyReference.cache
+E:\28-9-2016\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.frmGiaoDien.resources
+E:\28-9-2016\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.Presentation.Form1.resources
+E:\28-9-2016\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.Presentation.frmSanPham.resources
+E:\28-9-2016\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.Properties.Resources.resources
+E:\28-9-2016\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.csproj.GenerateResource.Cache
+E:\28-9-2016\QLKHO1(DEV 11.1.7)\QLKHO1\obj\x86\Debug\QLKHO1.exe.licenses
+E:\DATA\CODER 2018\QLKHO1(DEV 11.2)\QLKHO1\bin\Debug\QLKHO1.exe
+E:\DATA\CODER 2018\QLKHO1(DEV 11.2)\QLKHO1\bin\Debug\QLKHO1.pdb
+E:\DATA\CODER 2018\QLKHO1(DEV 11.2)\QLKHO1\obj\x86\Debug\QLKHO1.PresentationLayer.FrmDangNhapHeThong.resources
+E:\DATA\CODER 2018\QLKHO1(DEV 11.2)\QLKHO1\obj\x86\Debug\QLKHO1.FrmMain.resources
+E:\DATA\CODER 2018\QLKHO1(DEV 11.2)\QLKHO1\obj\x86\Debug\QLKHO1.PresentationLayer.FrmPhanQuyen.resources
+E:\DATA\CODER 2018\QLKHO1(DEV 11.2)\QLKHO1\obj\x86\Debug\QLKHO1.PresentationLayer.frmSanPham.resources
+E:\DATA\CODER 2018\QLKHO1(DEV 11.2)\QLKHO1\obj\x86\Debug\QLKHO1.PresentationLayer.FrmDoiMatKhau.resources
+E:\DATA\CODER 2018\QLKHO1(DEV 11.2)\QLKHO1\obj\x86\Debug\QLKHO1.Properties.Resources.resources
+E:\DATA\CODER 2018\QLKHO1(DEV 11.2)\QLKHO1\obj\x86\Debug\QLKHO1.csproj.GenerateResource.Cache
+E:\DATA\CODER 2018\QLKHO1(DEV 11.2)\QLKHO1\obj\x86\Debug\QLKHO1.exe.licenses
+E:\DATA\CODER 2018\QLKHO1(DEV 11.2)\QLKHO1\obj\x86\Debug\QLKHO1.exe
+E:\DATA\CODER 2018\QLKHO1(DEV 11.2)\QLKHO1\obj\x86\Debug\QLKHO1.pdb
+E:\DATA\CODER 2018\QLKHO 2018\QLKHO1(24.2.2018)\QLKHO1\obj\x86\Debug\QLKHO1.exe
+E:\DATA\CODER 2018\QLKHO 2018\QLKHO1(24.2.2018)\QLKHO1\obj\x86\Debug\QLKHO1.pdb
+E:\DATA\CODER 2018\QLKHO 2018\QLKHO1(24.2.2018)\QLKHO1\bin\Debug\QLKHO1.exe
+E:\DATA\CODER 2018\QLKHO 2018\QLKHO1(24.2.2018)\QLKHO1\bin\Debug\QLKHO1.pdb
+E:\DATA\CODER 2018\QLKHO 2018\QLKHO1(24.2.2018)\QLKHO1\obj\x86\Debug\QLKHO1.PresentationLayer.FrmDangNhapHeThong.resources
+E:\DATA\CODER 2018\QLKHO 2018\QLKHO1(24.2.2018)\QLKHO1\obj\x86\Debug\QLKHO1.FrmMain.resources
+E:\DATA\CODER 2018\QLKHO 2018\QLKHO1(24.2.2018)\QLKHO1\obj\x86\Debug\QLKHO1.PresentationLayer.FrmPhanQuyen.resources
+E:\DATA\CODER 2018\QLKHO 2018\QLKHO1(24.2.2018)\QLKHO1\obj\x86\Debug\QLKHO1.PresentationLayer.frmSanPham.resources
+E:\DATA\CODER 2018\QLKHO 2018\QLKHO1(24.2.2018)\QLKHO1\obj\x86\Debug\QLKHO1.PresentationLayer.FrmDoiMatKhau.resources
+E:\DATA\CODER 2018\QLKHO 2018\QLKHO1(24.2.2018)\QLKHO1\obj\x86\Debug\QLKHO1.Properties.Resources.resources
+E:\DATA\CODER 2018\QLKHO 2018\QLKHO1(24.2.2018)\QLKHO1\obj\x86\Debug\QLKHO1.csproj.GenerateResource.Cache
+E:\DATA\CODER 2018\QLKHO 2018\QLKHO1(24.2.2018)\QLKHO1\obj\x86\Debug\QLKHO1.exe.licenses

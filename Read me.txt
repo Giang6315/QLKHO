@@ -1,0 +1,5 @@
+ngay 24.2.2018
+fix code 
+tren developer devexpress 11.2.5
+lam xong code phan quyen va dang nhap he thong va doi mat khau, 
+ma hoa password form frmPhanQuyen va Form FrmDoiMatKhau
